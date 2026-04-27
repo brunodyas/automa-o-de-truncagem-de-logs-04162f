@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.exe
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.deps.json
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.pdb
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\refint\automa_o_de_truncagem_de_logs_04162f.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.pdb
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\ref\automa_o_de_truncagem_de_logs_04162f.dll
