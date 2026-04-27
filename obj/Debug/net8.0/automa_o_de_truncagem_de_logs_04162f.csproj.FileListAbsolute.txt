@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.pdb
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\ref\automa_o_de_truncagem_de_logs_04162f.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-04162f\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_04162f.sourcelink.json
